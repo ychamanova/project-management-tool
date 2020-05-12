@@ -3,8 +3,8 @@ This project management tool allows you collaborate on projects with other users
 
 Routes:
 
-/dashboard
-/project/:id
-/create
-/signin
-/signup
+/dashboard.
+/project/:id.
+/create.
+/signin.
+/signup.
